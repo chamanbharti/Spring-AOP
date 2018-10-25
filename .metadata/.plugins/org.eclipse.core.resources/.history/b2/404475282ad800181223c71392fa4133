@@ -1,0 +1,8 @@
+package com.aop.ch5;
+
+public final class Agent {
+
+	public void speak() {
+		System.out.print("Bond");
+	}
+}

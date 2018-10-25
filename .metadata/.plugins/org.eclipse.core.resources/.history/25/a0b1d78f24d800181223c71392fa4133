@@ -1,0 +1,5 @@
+package com.aop.proxy_pattern;
+
+public class ProxyPatternDemo {
+
+}
